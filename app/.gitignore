@@ -1,0 +1,16 @@
+.DS_Store
+/node_modules
+/dist
+/ssl
+/.idea
+../.idea
+
+# local env files
+.env.development
+.env.*.local
+.env.*
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
