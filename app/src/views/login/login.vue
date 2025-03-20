@@ -54,7 +54,7 @@
     <div class="login-copyright">
       Copyright © 2025 www.chouy.xyz All rights reserved. &nbsp;
       备案号 <a href="https://beian.miit.gov.cn/" target="_blank">浙ICP备20021765号-1</a>&nbsp;
-      <img src="/beian.png"  alt="备案" /><a href="https://beian.miit.gov.cn/" target="_blank">浙公网安备 33011002014800号</a>
+      <img src="@/assets/beian.png"  alt="备案" /><a href="https://beian.miit.gov.cn/" target="_blank">浙公网安备 33011002014800号</a>
     </div>
     <!-- 多语言切换 -->
     <div style="position: absolute;right: 30px;top: 20px;">
